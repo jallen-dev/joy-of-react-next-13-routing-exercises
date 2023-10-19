@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import ScreenSaver from '../../../components/ScreenSaver';
+import ScreenSaver from "../../../components/ScreenSaver";
 
 function ScreenSaverExercise() {
   return (
